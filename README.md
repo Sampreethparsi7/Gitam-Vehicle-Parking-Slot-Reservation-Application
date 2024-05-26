@@ -52,3 +52,4 @@ The system includes a security feature that sends alerts to the vehicle owner if
 
  7. Conclusion
 The Gitam Vehicle Parking Slot Reservation Application enhances the efficiency and security of parking space management. It provides a seamless experience for both staff and clients, automating essential processes and ensuring accurate and timely operations.
+[screenshots of application.zip](https://github.com/Sampreethparsi7/Gitam-Vehicle-Parking-Slot-Reservation-Application/files/15446588/screenshots.of.application.zip)
